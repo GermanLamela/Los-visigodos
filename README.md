@@ -4,9 +4,9 @@ Los visigodos fueron distintos pueblos bárbaros que, sin encontrar oposición, 
 
 ## Índice
 
-1. Época
-2. Arquitectura
-3. Obras más significativas
+1. [Época](https://github.com/GermanLamela/Los-visigodos/blob/main/%C3%89POCA.md)
+2. [Arquitectura](https://github.com/GermanLamela/Los-visigodos/blob/main/ARQUITECTURA.md)
+3. [Obras más significativas](https://github.com/GermanLamela/Los-visigodos/blob/main/OBRAS.MD)
 
 ## Referencia
 
